@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.spinner-wrapper {
+  height: var(--spinner-size, 20px);
+  width: var(--spinner-size, 20px);
+}
